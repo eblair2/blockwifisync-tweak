@@ -1,0 +1,3 @@
+#!/bin/sh
+pfctl -f /usr/share/blockwifisync/pf.conf -e -q
+exit 0

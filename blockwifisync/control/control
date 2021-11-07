@@ -1,0 +1,10 @@
+Package: blockwifisync.ethanblair
+Name: BlockWiFiSync
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Block iTunes WiFi Sync port 62078
+Maintainer: Ethan Blair
+Author: Ethan Blair
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 36

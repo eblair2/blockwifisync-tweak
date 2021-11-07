@@ -1,0 +1,3 @@
+#!/bin/sh
+pfctl -d
+exit 0
